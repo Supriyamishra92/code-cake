@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e76218-d32f-4f5a-aa16-9d5ffdfdb19c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/FindMinimumInRotatedSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/problem/solving/google/LinkedListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/LinkedListOperations.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,14 +14,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/LinkedListOperations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+            <state relative-caret-position="104">
+              <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
               <folding>
                 <element signature="e#2312#2313#0" expanded="true" />
                 <element signature="e#2345#2346#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/FindMinimumInRotatedSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,6 +62,8 @@
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/TwoEgg.java" />
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/LinkedListNodeRemove.java" />
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/LinkedListOperations.java" />
+        <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/FindMinimumInRotatedSortedArrayII.java" />
+        <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/FindMinimumInRotatedSortedArray.java" />
       </list>
     </option>
   </component>
@@ -76,11 +90,6 @@
             <path>
               <item name="PracticeProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="PracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeProblems" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -102,37 +111,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="solving" type="462c0819:PsiDirectoryNode" />
               <item name="google" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedListOperations.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="goal300" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PracticeProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="PracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="PracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,7 +126,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566385398444" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566994012840" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -161,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListOperations">
+  <component name="RunManager" selected="Application.MainClass">
     <configuration name="KingsMarch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.samsung.kings.march.KingsMarch" />
       <module name="PracticeProblems" />
@@ -201,6 +184,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.problem.solving.google.goal300.MainClass" />
+      <module name="PracticeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.problem.solving.google.goal300.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwoEgg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.problem.solving.google.TwoEgg" />
       <module name="PracticeProblems" />
@@ -216,6 +212,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.LinkedListOperations" />
         <item itemvalue="Application.LinkedListNodeRemove" />
         <item itemvalue="Application.TwoEgg" />
@@ -238,7 +235,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -392,11 +388,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/LinkedListOperations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+        <state relative-caret-position="104">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
           <folding>
             <element signature="e#2312#2313#0" expanded="true" />
             <element signature="e#2345#2346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/FindMinimumInRotatedSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
