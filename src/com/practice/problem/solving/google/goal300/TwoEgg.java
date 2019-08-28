@@ -1,4 +1,4 @@
-package com.practice.problem.solving.google;
+package com.practice.problem.solving.google.goal300;
 
 /***
  * A building has 100 floors. One of the floors is the highest floor an egg can be dropped from without breaking.
