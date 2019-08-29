@@ -8,7 +8,7 @@ public class GetPermutation {
 
     public static String getPermutation(int n, int k) {
 
-
+    return "";
 
     }
 
