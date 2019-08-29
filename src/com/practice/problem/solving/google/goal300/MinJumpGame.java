@@ -21,4 +21,20 @@ package com.practice.problem.solving.google.goal300;
  */
 public class MinJumpGame {
 
+    private static int minJump(int[] nums) {
+        int jump = 0;
+        int currentEnd = 0;
+        int currentFarthest = 0;
+
+        for (int i = 0; i <nums.length -1 ; i++) {
+            currentFarthest = Math.max(currentFarthest, i+nums[i]);
+
+            if (i == currentEnd) {
+                jump++;
+                currentEnd = currentFarthest;
+            }
+        }
+        return jump;
+    }
+
 }
