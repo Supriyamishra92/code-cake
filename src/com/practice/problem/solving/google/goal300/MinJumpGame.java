@@ -32,6 +32,10 @@ public class MinJumpGame {
             if (i == currentEnd) {
                 jump++;
                 currentEnd = currentFarthest;
+
+                if (currentEnd >= nums.length - 1) {
+                    break;
+                }
             }
         }
         return jump;

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e76218-d32f-4f5a-aa16-9d5ffdfdb19c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/GetPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/GetPermutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/MinJumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/MinJumpGame.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -55,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/GetPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/MinJumpGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            <state relative-caret-position="314">
+              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -131,8 +133,8 @@
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/ThreeEqualPartsII.java" />
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/ThreeEqualParts.java" />
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/JumpGame.java" />
-        <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/GetPermutation.java" />
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/MinJumpGame.java" />
+        <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/GetPermutation.java" />
       </list>
     </option>
   </component>
@@ -221,7 +223,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567108251700" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567171553794" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -239,9 +241,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JumpGame">
-    <configuration name="JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.problem.solving.google.goal300.JumpGame" />
+  <component name="RunManager" selected="Application.GetPermutation">
+    <configuration name="GetPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.problem.solving.google.goal300.GetPermutation" />
       <module name="PracticeProblems" />
       <extension name="coverage">
         <pattern>
@@ -253,8 +255,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.problem.solving.google.goal300.MainClass" />
+    <configuration name="JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.problem.solving.google.goal300.JumpGame" />
       <module name="PracticeProblems" />
       <extension name="coverage">
         <pattern>
@@ -307,11 +309,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetPermutation" />
         <item itemvalue="Application.JumpGame" />
         <item itemvalue="Application.ThreeEqualParts" />
         <item itemvalue="Application.MainInput" />
         <item itemvalue="Application.MainInputHandler" />
-        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -519,26 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/GetPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/ThreeEqualParts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/TwoEgg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -558,8 +540,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/MinJumpGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        <state relative-caret-position="314">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/ThreeEqualParts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/GetPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
