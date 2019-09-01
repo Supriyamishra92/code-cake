@@ -16,4 +16,7 @@ package com.practice.problem.solving.google.goal300;
  * Return  : 2 which occurs 2 times which is greater than 3/2.
  */
 public class MajorityElement {
+    public static void main(String[] args) {
+
+    }
 }
