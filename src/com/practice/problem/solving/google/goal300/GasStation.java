@@ -39,4 +39,8 @@ package com.practice.problem.solving.google.goal300;
  *         which you do and complete the circuit.
  */
 public class GasStation {
+    public static void main(String[] args) {
+
+    }
+
 }

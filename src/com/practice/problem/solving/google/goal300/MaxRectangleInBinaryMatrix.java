@@ -20,4 +20,7 @@ package com.practice.problem.solving.google.goal300;
  * As the max area rectangle is created by the 2x2 rectangle created by (0,1), (0,2), (1,1) and (1,2)
  */
 public class MaxRectangleInBinaryMatrix {
+    public static void main(String[] args) {
+
+    }
 }

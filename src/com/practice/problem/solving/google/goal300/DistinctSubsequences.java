@@ -43,4 +43,9 @@ package com.practice.problem.solving.google.goal300;
  *     Note: "_" marks the removed character.
  */
 public class DistinctSubsequences {
+
+    public static void main(String[] args) {
+
+    }
+
 }
