@@ -1,5 +1,9 @@
 package com.practice.problem.solving.google.goal300;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 /***
  * Asked in:
  * Bloomberg
@@ -39,8 +43,43 @@ package com.practice.problem.solving.google.goal300;
  *         which you do and complete the circuit.
  */
 public class GasStation {
-    public static void main(String[] args) {
 
+    public  static int canCompleteCircuit(final List<Integer> A, final List<Integer> B) {
+        double max=-1;
+        int maxIdx=-1;
+        int Asum=0,Bsum=0;
+        for(int i=0;i<A.size();i++)
+        {
+            Asum+=A.get(i);
+            Bsum+=B.get(i);
+        }
+        if(Asum<Bsum)
+            return -1;
+        for(int i=0;i<A.size();i++)
+        {
+            if(A.get(i)>=B.get(i))
+            {
+                if(checkPossibility(A,B,i))
+                    return i;
+            }
+        }
+        return -1;
+    }
+    public static boolean checkPossibility(final List<Integer> A,final List<Integer> B,int idx)
+    {
+        int currGas=0;
+        for(int i=idx;i<idx+A.size();i++)
+        {
+            currGas+=A.get(i%A.size());
+            currGas-=B.get(i%A.size());
+            if(currGas<0)
+                return false;
+        }
+        return true;
+    }
+    public static void main(String[] args) {
+        int[] A =  new int[] {1,2};
+        int[] B =  new int[] {2,1};
     }
 
 }

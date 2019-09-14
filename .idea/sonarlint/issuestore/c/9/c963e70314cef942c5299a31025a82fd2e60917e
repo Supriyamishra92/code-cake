@@ -1,0 +1,6 @@
+
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(„Î“ûÿÿÿÿ8ÈØÎĞÍ-
+Jsquid:S1659L",Declare "startThirdPart" on a separate line.(ˆæ‘¤8óš¦ÏÍ-
+psquid:S37762"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ŞÏ¥–8óîùÏÍ-
+@squid:S1643"Use a StringBuilder instead.(³ï±Àøÿÿÿÿ8ÈØÎĞÍ-

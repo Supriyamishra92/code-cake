@@ -1,0 +1,12 @@
+
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8É™äË-
+9squid:S2326"T is not used in the class.(¢ÕĞ8…Ô×úÊ-
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ÿ€øá8½÷ÙË-
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(‘ö”îùÿÿÿÿ8ô¹ƒûÊ-
+Š"squid:ClassVariableVisibilityCheckH"PMake next a static final constant or non-public and provide accessors if needed.(±±èÃøÿÿÿÿ8ïÜËË-
+‹"squid:ClassVariableVisibilityCheckF"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ8ïÜËË-
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(œ²ÿÂ8’çßË-

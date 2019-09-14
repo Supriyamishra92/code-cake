@@ -1,0 +1,25 @@
+
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏÛ¤æ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶«Ç²
+P
+squid:S106•"9Replace this use of System.out or System.err by a logger.(£ĞÆÎ
+O
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ìÿø­
+U
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(ˆ©“Îûÿÿÿÿ
+nsquid:S3776A"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(á‚¬şÿÿÿÿ
+T
+squid:S106e"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T
+squid:S106c"9Replace this use of System.out or System.err by a logger.(å‘É‘şÿÿÿÿ
+T
+squid:S106k"9Replace this use of System.out or System.err by a logger.(ãúÚ‚ÿÿÿÿÿ
+t
+squid:S135|"YReduce the total number of break and continue statements in this loop to use at most one.(ÿª„óûÿÿÿÿ
+T
+squid:S106m"9Replace this use of System.out or System.err by a logger.(üªÇßøÿÿÿÿ
+lsquid:S1149s"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(òÓãíüÿÿÿÿ
+T
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ÅÅªúÿÿÿÿ

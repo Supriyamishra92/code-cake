@@ -1,0 +1,14 @@
+
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(Ø¹‰õıÿÿÿÿ8¿Ÿ·ëÍ-
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(°·íñ8ôÌ¹òÍ-
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ÆÛ¼‹8¿Ÿ·ëÍ-
+gsquid:HiddenFieldCheckM"9Rename "memo" which hides the field declared at line 117.(íÇ‘¸üÿÿÿÿ8ñÊÃóÍ-
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ĞÚØøÿÿÿÿ8¿Ÿ·ëÍ-
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(á‘…À8®ø’ëÍ-
+Lsquid:S1125‚"(Remove the literal "true" boolean value.(ğÊÌÿûÿÿÿÿ8é¹‰óÍ-
+nsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(´¹úÿÿÿÿ8«¥½òÍ-

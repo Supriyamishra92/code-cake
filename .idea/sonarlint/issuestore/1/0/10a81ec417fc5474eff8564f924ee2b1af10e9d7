@@ -1,0 +1,7 @@
+
+gsquid:UselessImportCheck"7Remove this unused import 'java.util.SplittableRandom'.(âå ¦şÿÿÿÿ8ÜÛÆÃÍ-
+[
+squid:S106h"9Replace this use of System.out or System.err by a logger.(„Î“ûÿÿÿÿ8ö‹™ÄÍ-
+Osquid:S2440d"1Remove this instantiation of "MinInRotatedArray".(ŞÓ±8‰šÄÍ-
+Ssquid:S2209d"5Change this instance-reference to a static reference.(ŞÓ±8¢ÊšÄÍ-
+Xsquid:S1118'":Add a private constructor to hide the implicit public one.(¶÷Ö§8ÈğÑÃÍ-
