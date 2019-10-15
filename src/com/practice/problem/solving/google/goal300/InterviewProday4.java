@@ -1,8 +1,6 @@
 package com.practice.problem.solving.google.goal300;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
@@ -31,7 +29,7 @@ import java.util.Stack;
 public class InterviewProday4 {
 
 
-    public static boolean isValidParanthesis(String string) {
+    public static boolean isValidParentheses(String string) {
 
         Map<Character, Character> mapping  = new HashMap<>();
         mapping.put(')','(');
@@ -66,7 +64,7 @@ public class InterviewProday4 {
 
                 String s = "[()]{}";
 
-                boolean ret = isValidParanthesis(s);
+                boolean ret = isValidParentheses(s);
 
                 System.out.print(ret);
     }
