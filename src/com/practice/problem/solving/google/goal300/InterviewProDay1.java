@@ -31,7 +31,6 @@ public class InterviewProDay1 {
         }
         return result;
     }
-
     public static void main(String[] args) {
         LinkedList<Integer> listLeft = new LinkedList<>();
         LinkedList<Integer> listRight = new LinkedList<>();

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e76218-d32f-4f5a-aa16-9d5ffdfdb19c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,19 +16,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay8.java">
+        <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            <state relative-caret-position="229">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay1.java">
+        <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="435">
+              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,7 +147,6 @@
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/ValidTriangleNumber.java" />
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/BinaryStringWithSubstringsRepresenting1ToN.java" />
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay3.java" />
-        <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay2.java" />
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/ImplementOwnQueue.java" />
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/DistinctSubsequences.java" />
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/MaxRectangleInBinaryMatrix.java" />
@@ -168,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay18" />
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay18.java" />
         <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay1.java" />
+        <option value="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay2.java" />
       </list>
     </option>
   </component>
@@ -264,7 +267,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571134441448" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571139906606" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -282,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InterviewProDay1">
+  <component name="RunManager" selected="Application.InterviewProDay2">
     <configuration name="GasStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.problem.solving.google.goal300.GasStation" />
       <module name="PracticeProblems" />
@@ -322,6 +325,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InterviewProDay2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.problem.solving.google.goal300.InterviewProDay2" />
+      <module name="PracticeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.problem.solving.google.goal300.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.problem.solving.google.goal300.JumpGame" />
       <module name="PracticeProblems" />
@@ -335,26 +351,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeEqualParts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.problem.solving.google.goal300.ThreeEqualParts" />
-      <module name="PracticeProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.problem.solving.google.goal300.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterviewProDay2" />
         <item itemvalue="Application.InterviewProDay1" />
         <item itemvalue="Application.GasStation" />
         <item itemvalue="Application.GetPermutation" />
         <item itemvalue="Application.JumpGame" />
-        <item itemvalue="Application.ThreeEqualParts" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +378,7 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2167382" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2167382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -384,14 +387,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32866243" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32866243" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32866243" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3299363" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -637,13 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -759,8 +755,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        <state relative-caret-position="229">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
