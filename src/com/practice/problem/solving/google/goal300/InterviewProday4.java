@@ -1,5 +1,12 @@
 package com.practice.problem.solving.google.goal300;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Stack;
+
 /***
  * UBER :
  *
@@ -22,4 +29,45 @@ package com.practice.problem.solving.google.goal300;
  * Output: False
  */
 public class InterviewProday4 {
+
+
+    public static boolean isValidParanthesis(String string) {
+
+        Map<Character, Character> mapping  = new HashMap<>();
+        mapping.put(')','(');
+        mapping.put('}','{');
+        mapping.put(']','[');
+
+
+        if (string.length() % 2 != 0) {
+            return false;
+        }
+
+        Stack<Character> stack = new Stack<>();
+        for (int i = 0; i < string.length(); i++) {
+            char c = string.charAt(i);
+            if (mapping.containsKey(c)) {
+                char topElement = stack.empty() ? '#' : stack.pop();
+                if (topElement != mapping.get(c)) {
+                    return false;
+                }
+
+            } else {
+                stack.push(c);
+            }
+
+        }
+
+        return stack.isEmpty();
+    }
+
+    public static void main(String[] args) throws IOException {
+
+
+                String s = "[()]{}";
+
+                boolean ret = isValidParanthesis(s);
+
+                System.out.print(ret);
+    }
 }
