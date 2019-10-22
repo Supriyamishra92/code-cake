@@ -10,4 +10,6 @@ package com.practice.problem.solving.google.goal300;
  * return true since 4 + 1 = 5.
  */
 public class InterviewProDay8 {
+
+
 }

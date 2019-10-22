@@ -1,2 +1,5 @@
 
-Xsquid:S2094"BRemove this empty class, write its code or make it an "interface".( Õ²!
+[
+squid:S106E"9Replace this use of System.out or System.err by a logger.(¯£Ûûüÿÿÿÿ8‚¥÷…Ý-
+ssquid:S1149,"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8ä‡ë„Ý-
+¤%squid:RedundantThrowsDeclarationCheck>"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8‚¥÷…Ý-

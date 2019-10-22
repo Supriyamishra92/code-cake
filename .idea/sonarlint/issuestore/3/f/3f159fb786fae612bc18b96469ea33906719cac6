@@ -1,2 +1,13 @@
 
-^squid:S2094"BRemove this empty class, write its code or make it an "interface".(â­¯şÿÿÿÿ
+Msquid:S1481\"*Remove this unused "list2" local variable.(Ï¬ç¸üÿÿÿÿ8ºµ¥İ-
+\squid:S1854\"9Remove this useless assignment to local variable "list2".(Ï¬ç¸üÿÿÿÿ8ºµ¥İ-
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8§Úô¤İ-
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(çšÕøÿÿÿÿ8¨¢à¤İ-
+V
+squid:S106d"9Replace this use of System.out or System.err by a logger.(Æñüø8°Ì’¥İ-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ğ§©Ìùÿÿÿÿ8§Úô¤İ-
+V
+squid:S106g"9Replace this use of System.out or System.err by a logger.(ÉÎ®Ô8³Éˆ¥İ-

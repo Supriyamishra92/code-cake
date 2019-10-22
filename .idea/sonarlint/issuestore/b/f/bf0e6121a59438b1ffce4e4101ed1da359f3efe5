@@ -1,8 +1,8 @@
 
+[squid:S1854"8Remove this useless assignment to local variable "eggs".(‘É‘åşÿÿÿÿ8ÇŠŸÊ-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(Äƒìÿÿÿÿÿ8ÆøÔÊ-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(êÌ¨±ùÿÿÿÿ8ÆøÔÊ-
-[squid:S1854"8Remove this useless assignment to local variable "eggs".(‘É‘åşÿÿÿÿ8ÇŠŸÊ-
 Lsquid:S1481")Remove this unused "eggs" local variable.(‘É‘åşÿÿÿÿ8ÇŠŸÊ-
 esquid:S2184"BCast one of the operands of this addition operation to a "double".(¾û—şşÿÿÿÿ8 âÍÊ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(êÌ¨±ùÿÿÿÿ8ÆøÔÊ-

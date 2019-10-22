@@ -1,2 +1,6 @@
 
-Xsquid:S2094"BRemove this empty class, write its code or make it an "interface".(ÕŸİJ
+psquid:S00117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ˆ±8–íÓ‚İ-
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(„Î“ûÿÿÿÿ8€ìø‚İ-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Ò¦îƒİ-
+usquid:S00117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–‹÷Ëıÿÿÿÿ8–íÓ‚İ-
