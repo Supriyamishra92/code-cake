@@ -2,23 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e76218-d32f-4f5a-aa16-9d5ffdfdb19c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/SecondLargestInBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/SteppingNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/LakshmiPuja.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c862498df2ea1f9f9a85649c75268b7864f9bf0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c862498df2ea1f9f9a85649c75268b7864f9bf0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f159fb786fae612bc18b96469ea33906719cac6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f159fb786fae612bc18b96469ea33906719cac6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/640af4a706357c3c03275ec8ed0756b8595a87b5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/640af4a706357c3c03275ec8ed0756b8595a87b5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76d085bb130489971f873fcb5db334ab312c0be8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76d085bb130489971f873fcb5db334ab312c0be8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d4f486baa4e345e6703cff4d36d8b9532fd983f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d4f486baa4e345e6703cff4d36d8b9532fd983f" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b11fbaef8a403f09495379c60f2ce2f7b66e29c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b11fbaef8a403f09495379c60f2ce2f7b66e29c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9d2798c9f80ad12f08f27738b3ed34350f4203ba" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9d2798c9f80ad12f08f27738b3ed34350f4203ba" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e21d6e3429e78474b085e9f9e9fe5e001097e0c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e21d6e3429e78474b085e9f9e9fe5e001097e0c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/978c0d2f55a34e26d1f6c297ac583df9c406df37" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/978c0d2f55a34e26d1f6c297ac583df9c406df37" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f9646e9093be8876973b0b0951aa5cefcca8bf6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f9646e9093be8876973b0b0951aa5cefcca8bf6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5707ebe146215ba3b5074ca6f4be8c72cb28170" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5707ebe146215ba3b5074ca6f4be8c72cb28170" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf0e6121a59438b1ffce4e4101ed1da359f3efe5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf0e6121a59438b1ffce4e4101ed1da359f3efe5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c52f039cfce272f0889e0757e6c9e6e12bab07bb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c52f039cfce272f0889e0757e6c9e6e12bab07bb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c963e70314cef942c5299a31025a82fd2e60917e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c963e70314cef942c5299a31025a82fd2e60917e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/SteppingNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/SteppingNum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,10 +27,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/ThreeEqualParts.java">
+        <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/SteppingNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1006">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="195">
+              <caret line="59" column="44" lean-forward="true" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,13 +39,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/SteppingNum.java">
+        <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/LakshmiPuja.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -65,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/DistinctSubsequences.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="705">
               <caret line="47" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
@@ -74,7 +68,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/FindMinimumInRotatedSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-331">
+            <state relative-caret-position="555">
               <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -86,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/GasStation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-661">
+            <state relative-caret-position="225">
               <caret line="15" column="97" selection-start-line="14" selection-start-column="3" selection-end-line="15" selection-end-column="97" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -98,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/GetPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-196">
+            <state relative-caret-position="465">
               <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -119,7 +113,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
+            <state relative-caret-position="480">
               <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -131,7 +125,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
+            <state relative-caret-position="660">
               <caret line="44" column="89" selection-start-line="44" selection-start-column="89" selection-end-line="44" selection-end-column="89" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -205,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -218,7 +212,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,15 +244,6 @@
               <item name="solving" type="462c0819:PsiDirectoryNode" />
               <item name="google" type="462c0819:PsiDirectoryNode" />
               <item name="goal300" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PracticeProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticeProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="solving" type="462c0819:PsiDirectoryNode" />
-              <item name="google" type="462c0819:PsiDirectoryNode" />
-              <item name="goal300" type="462c0819:PsiDirectoryNode" />
-              <item name="FindMinimumInRotatedSortedArray.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="PracticeProblems" type="b2602c69:ProjectViewProjectNode" />
@@ -303,11 +287,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571749007287" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572202970045" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -325,20 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SteppingNum">
-    <configuration name="InterviewProDay5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.problem.solving.google.goal300.InterviewProDay5" />
-      <module name="PracticeProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.problem.solving.google.goal300.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LakshmiPuja">
     <configuration name="InterviewProDay6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.problem.solving.google.goal300.InterviewProDay6" />
       <module name="PracticeProblems" />
@@ -354,6 +326,19 @@
     </configuration>
     <configuration name="InterviewProDay7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.problem.solving.google.goal300.InterviewProDay7" />
+      <module name="PracticeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.problem.solving.google.goal300.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LakshmiPuja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.problem.solving.google.goal300.LakshmiPuja" />
       <module name="PracticeProblems" />
       <extension name="coverage">
         <pattern>
@@ -393,11 +378,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LakshmiPuja" />
         <item itemvalue="Application.SteppingNum" />
         <item itemvalue="Application.SecondLargestInBST" />
         <item itemvalue="Application.InterviewProDay7" />
         <item itemvalue="Application.InterviewProDay6" />
-        <item itemvalue="Application.InterviewProDay5" />
       </list>
     </recent_temporary>
   </component>
@@ -415,10 +400,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21959943" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22246066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -427,12 +411,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32866243" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32771084" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32866243" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3299363" />
@@ -741,19 +725,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="44" column="89" selection-start-line="44" selection-start-column="89" selection-end-line="44" selection-end-column="89" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/ThreeEqualParts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1006">
+        <state relative-caret-position="690">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -770,14 +744,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/DistinctSubsequences.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="705">
           <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/FindMinimumInRotatedSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-331">
+        <state relative-caret-position="555">
           <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -787,7 +761,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/GasStation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-661">
+        <state relative-caret-position="225">
           <caret line="15" column="97" selection-start-line="14" selection-start-column="3" selection-end-line="15" selection-end-column="97" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -797,7 +771,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/GetPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-196">
+        <state relative-caret-position="465">
           <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -814,8 +788,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
+        <state relative-caret-position="480">
           <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/InterviewProDay2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="89" selection-start-line="44" selection-start-column="89" selection-end-line="44" selection-end-column="89" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -824,8 +808,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/SteppingNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        <state relative-caret-position="195">
+          <caret line="59" column="44" lean-forward="true" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,19 +1,19 @@
 
-usquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ›Í¢üÿÿÿÿ8ªÏğÎ-
-usquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤’”¯şÿÿÿÿ8ªÏğÎ-
-osquid:S00117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õáÌ78ªÏğÎ-
 Isquid:S1481R"&Remove this unused "B" local variable.(šñÄ”úÿÿÿÿ8ÅŸØÆÏ-
+Xsquid:S1854Q"5Remove this useless assignment to local variable "A".(óƒæĞøÿÿÿÿ8ÅŸØÆÏ-
+Xsquid:S1854R"5Remove this useless assignment to local variable "B".(šñÄ”úÿÿÿÿ8ÅŸØÆÏ-
+usquid:S00117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šñÄ”úÿÿÿÿ8˜üÔğÎ-
 ]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÅŸØÆÏ-
-[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÍâğÎ-
+Nsquid:S14811"+Remove this unused "maxIdx" local variable.(²Íæüÿÿÿÿ8ªÏğÎ-
 usquid:S00117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óƒæĞøÿÿÿÿ8˜üÔğÎ-
 osquid:S00117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õáÌ78ªÏğÎ-
-Xsquid:S1854Q"5Remove this useless assignment to local variable "A".(óƒæĞøÿÿÿÿ8ÅŸØÆÏ-
-Fsquid:S14810"(Remove this unused "max" local variable.(âşØÛ8ªÏğÎ-
-usquid:S00117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šñÄ”úÿÿÿÿ8˜üÔğÎ-
-usquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ›Í¢üÿÿÿÿ8ªÏğÎ-
 Isquid:S1481Q"&Remove this unused "A" local variable.(óƒæĞøÿÿÿÿ8ÅŸØÆÏ-
-Nsquid:S14811"+Remove this unused "maxIdx" local variable.(²Íæüÿÿÿÿ8ªÏğÎ-
-Esquid:S16592""Declare "Bsum" on a separate line.(İ›Í¢üÿÿÿÿ8ªÏğÎ-
+Fsquid:S14810"(Remove this unused "max" local variable.(âşØÛ8ªÏğÎ-
+usquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ›Í¢üÿÿÿÿ8ªÏğÎ-
 usquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤’”¯şÿÿÿÿ8ªÏğÎ-
+osquid:S00117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õáÌ78ªÏğÎ-
+usquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ›Í¢üÿÿÿÿ8ªÏğÎ-
 Rsquid:S1066>"/Merge this if statement with the enclosing one.(ê¨äûÿÿÿÿ8ªÏğÎ-
-Xsquid:S1854R"5Remove this useless assignment to local variable "B".(šñÄ”úÿÿÿÿ8ÅŸØÆÏ-
+Esquid:S16592""Declare "Bsum" on a separate line.(İ›Í¢üÿÿÿÿ8ªÏğÎ-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÍâğÎ-
+usquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤’”¯şÿÿÿÿ8ªÏğÎ-

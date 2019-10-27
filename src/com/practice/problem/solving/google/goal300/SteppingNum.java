@@ -26,6 +26,7 @@ public class SteppingNum {
             // Get the last digit of the currently
             // visited Stepping Number
             int lastDigit = stepNum % 10;
+            //System.out.println("ld"+ lastDigit);
 
             // There can be 2 cases either digit
             // to be appended is lastDigit + 1 or
@@ -65,7 +66,7 @@ public class SteppingNum {
         // Driver code
         public static void main(String args[])
         {
-            int n = 0, m = 10000;
+            int n = 0, m = 100;
 
             // Display Stepping Numbers in
             // the range [n,m]
