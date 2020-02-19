@@ -50,17 +50,46 @@ public class OrderProcessing {
       return isFirstComeFirstServedBetter(takeOutOrders, dineInOrders,servedOrders,servedOrderIndex, takeOutOrderIndex,dineInOrderIndex);
     }
 
+// O(1) space solution
 
+    // iterative
+
+    public static boolean isFirstComeFirstServedIt(int[] takeOutOrders, int[] dineInOrders, int[] servedOrders) {
+        int takeOutOrderIndex = 0;
+        int dineInOrderIndex = 0;
+
+        for (int order : servedOrders
+             ) {
+            if ((takeOutOrderIndex < takeOutOrders.length) && (order == takeOutOrders[takeOutOrderIndex])){
+                takeOutOrderIndex++;
+            } else if ((dineInOrderIndex < dineInOrders.length) && (order == dineInOrders[dineInOrderIndex])) {
+                dineInOrderIndex++;
+            } else {
+                return false;
+            }
+
+        }
+
+        if ((dineInOrderIndex != dineInOrders.length) || (takeOutOrderIndex != takeOutOrders.length)) {
+            return false;
+
+        }
+        return true;
+
+    }
 
 
     public static void main(String[] args) {
-        final int[] takeOutOrders = {};
+        final int[] takeOutOrders = {1, 5};
         final int[] dineInOrders = {2, 3, 6};
-        final int[] servedOrders = {2, 3, 6};
+        final int[] servedOrders = {1, 2, 6, 3, 5};
+
         boolean result = isFirstComeFirstServedNaive(takeOutOrders, dineInOrders,servedOrders);
         boolean betterResult = isFirstComeFirstServedBetter(takeOutOrders, dineInOrders,servedOrders);
+        boolean resultIt = isFirstComeFirstServedIt(takeOutOrders,dineInOrders,servedOrders);
         System.out.println(result);
         System.out.println(betterResult);
+        System.out.println(resultIt);
 
     }
 
