@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e76218-d32f-4f5a-aa16-9d5ffdfdb19c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/CloneGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/MaxHeapify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/OrderProcessing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c862498df2ea1f9f9a85649c75268b7864f9bf0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c862498df2ea1f9f9a85649c75268b7864f9bf0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54a4faf161fe6decd98d6acce02c56446a37e539" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54a4faf161fe6decd98d6acce02c56446a37e539" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d4f486baa4e345e6703cff4d36d8b9532fd983f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d4f486baa4e345e6703cff4d36d8b9532fd983f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b11fbaef8a403f09495379c60f2ce2f7b66e29c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b11fbaef8a403f09495379c60f2ce2f7b66e29c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/978c0d2f55a34e26d1f6c297ac583df9c406df37" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/978c0d2f55a34e26d1f6c297ac583df9c406df37" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a6ecd12116e2b30d327832a1c7af73c5bb29282" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a6ecd12116e2b30d327832a1c7af73c5bb29282" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5707ebe146215ba3b5074ca6f4be8c72cb28170" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5707ebe146215ba3b5074ca6f4be8c72cb28170" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5e447c19f8534b1a5446003417cdd1fcfbe7ec3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5e447c19f8534b1a5446003417cdd1fcfbe7ec3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/OrderProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/OrderProcessing.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/OrderProcessing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-              <folding>
-                <element signature="e#1102#1103#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="267">
+              <caret line="67" column="39" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -266,7 +252,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582105191803" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582108116493" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -378,7 +364,7 @@
     <frame x="0" y="23" width="1678" height="948" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19743276" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19743276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -388,14 +374,14 @@
       <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32827103" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3165888" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3165888" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32771084" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3271028" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3299363" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="right" id="Flutter Inspector" />
@@ -804,11 +790,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/problem/solving/google/goal300/OrderProcessing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding>
-            <element signature="e#1102#1103#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="267">
+          <caret line="67" column="39" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
         </state>
       </provider>
     </entry>
