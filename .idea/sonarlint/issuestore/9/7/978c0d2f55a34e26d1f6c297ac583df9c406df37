@@ -1,5 +1,5 @@
 
-[
-squid:S106C"9Replace this use of System.out or System.err by a logger.(£‰Ğ­ÿÿÿÿÿ8÷…¦õÍ-
 :squid:S1643/"Use a StringBuilder instead.(Ìïı°8ŠË•Î-
 wsquid:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(ä´±Ş8ŠË•Î-
+[
+squid:S106C"9Replace this use of System.out or System.err by a logger.(£‰Ğ­ÿÿÿÿÿ8÷…¦õÍ-

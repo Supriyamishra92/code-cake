@@ -1,5 +1,5 @@
 
-usquid:UselessImportCheck"ERemove this unused import 'java.util.concurrent.LinkedBlockingDeque'.(ÌÇœüÿÿÿÿ8ú‚»öÜ-
-\squid:S1854%">Remove this useless assignment to local variable "resultList".(èÚ¢ô8úš÷öÜ-
 V
 squid:S106-"9Replace this use of System.out or System.err by a logger.(Ú¾Šú8‹»¤÷Ü-
+\squid:S1854%">Remove this useless assignment to local variable "resultList".(èÚ¢ô8úš÷öÜ-
+usquid:UselessImportCheck"ERemove this unused import 'java.util.concurrent.LinkedBlockingDeque'.(ÌÇœüÿÿÿÿ8ú‚»öÜ-
